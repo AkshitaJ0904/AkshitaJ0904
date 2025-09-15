@@ -57,6 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitaJ0904&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="40%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitaJ0904&theme=tokyonight" alt="GitHub Streak" width="40%">
+  <a href="https://leetcode.com/u/Akshitaj0904/"><img src="https://img.shields.io/badge/LeetCode-Akshitaj0904-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---

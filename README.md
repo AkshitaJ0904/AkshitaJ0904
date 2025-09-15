@@ -1,5 +1,4 @@
 <p align="center">
-  <p align="center">
   <img src="https://github.com/AkshitaJ0904/AkshitaJ0904/blob/main/avatar.png" width="160" alt="Akshita Avatar"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AF7E8&width=500&lines=👋+Hi+there%2C+I'm+Akshita+Jain!;🚀+Full+Stack+%7C+ML+Engineer+%7C+Leader;🏆+Hackathon+Winner+%7C+Open+Source+Enthusiast;Welcome+to+my+interactive+GitHub!" alt="Typing SVG">
 </p>
@@ -17,8 +16,11 @@
 - 🎓 Third Year, B.Tech (CSE) at **BML Munjal University** with CGPA **8.38**
 - 🌍 Multilingual: **Hindi, English, Spanish** (speaks 3 accents of English)
 - 🌱 Passionate about building scalable **full-stack**, **AI/ML**, and **cloud** solutions
-- 🏆 **Winner:** Microsoft Azure Hackathon; **1st Runner-up:** Smart India Hackathon (ISL Translator)
+- 🏆 **Winner:** Microsoft Azure Hackathon
+- 🥈 **1st Runner-up:** Smart India Hackathon (ISL Translator)
 - 👩‍🔬 **Current Full Stack Intern:** BibNet | Experience in startups and research platforms
+
+---
 
 ### 🏅 Key Skills
 
@@ -39,14 +41,14 @@
 
 ### 🚀 Featured Projects
 
-- **[INDI-FUSION](https://github.com/AkshitaJ0904/INDI-FUSION):**
-  <br>Empowers new artists in fashion, pottery, couture, jewelry, and handlooms via a custom e-commerce platform.
-- **[SIGNBOT – ISL Translator](https://github.com/AkshitaJ0904/SIGNBOT):**
-  <br>Real-time Indian Sign Language translator using ML—90%+ accuracy, Smart India Hackathon runner-up.
-- **[Automated-Answer-Checker](https://github.com/AkshitaJ0904/Automated-Answer-Checker):**
-  <br>AI-based grading system (OCR + NLP) for handwritten answers; accuracy 86%.
-- **[Madpackers – Hostel Booking App](https://github.com/AkshitaJ0904/hotel_booking_app):**
-  <br>Real-time bookings, payments, and UI for Madpackers Hostel (Flutter, PostgreSQL, AWS).
+- **[INDI-FUSION](https://github.com/AkshitaJ0904/INDI-FUSION):**  
+  Empowers new artists in fashion, pottery, couture, jewelry, and handlooms via a custom e-commerce platform.
+- **[SIGNBOT – ISL Translator](https://github.com/AkshitaJ0904/SIGNBOT):**  
+  Real-time Indian Sign Language translator using ML—90%+ accuracy, Smart India Hackathon runner-up.
+- **[Automated-Answer-Checker](https://github.com/AkshitaJ0904/Automated-Answer-Checker):**  
+  AI-based grading system (OCR + NLP) for handwritten answers; accuracy 86%.
+- **[Madpackers – Hostel Booking App](https://github.com/AkshitaJ0904/hotel_booking_app):**  
+  Real-time bookings, payments, and UI for Madpackers Hostel (Flutter, PostgreSQL, AWS).
 
 ---
 
@@ -71,12 +73,7 @@
 
 ### 📬 Connect With Me
 
-- Email: akshitaj0904@gmail.com
+- Email: [akshitaj0904@gmail.com](mailto:akshitaj0904@gmail.com)
 - LinkedIn: [akshita-jain-1a492124b](https://www.linkedin.com/in/akshita-jain-1a492124b/)
 - GitHub: [AkshitaJ0904](https://github.com/AkshitaJ0904)
-
----
-
-<!-- Animation tip: For an animated/coding GIF avatar, pick a fun GIF from https://giphy.com/ or generate one using https://avatarify.ai/, upload it to your repo (or link) and update the image URL at the top. 
-Badge shields from shields.io, and for contribution graphs use https://github-readme-stats.vercel.app/  -->
 

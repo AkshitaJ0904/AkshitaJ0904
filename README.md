@@ -1,8 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://github.com/AkshitaJ0904/AkshitaJ0904/blob/main/avatar.png" width="160" alt="Akshita Avatar">
-</p>
-
+  <img src="https://github.com/AkshitaJ0904/AkshitaJ0904/blob/main/avatar.png" width="160" alt="Akshita Avatar"><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AF7E8&width=500&lines=👋+Hi+there%2C+I'm+Akshita+Jain!;🚀+Full+Stack+%7C+ML+Engineer+%7C+Leader;🏆+Hackathon+Winner+%7C+Open+Source+Enthusiast;Welcome+to+my+interactive+GitHub!" alt="Typing SVG">
 </p>
 

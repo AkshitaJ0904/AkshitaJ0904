@@ -51,6 +51,7 @@
 - Semi-finalist, Flipkart Grid 7.0 (national coding competition)
 - BMU Campus Ambassador (2023–2027): Led outreach & tech initiatives
 - Core Member, Google Developer Student Club: Led events, trained 500+ peers
+- Fluent in three languages(Hindi,English and Spanish) with fluency in three different accents of English
 ---
 ### 📬 Connect With Me
 - Email: akshitaj0904@gmail.com
